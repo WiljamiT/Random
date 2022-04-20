@@ -1,10 +1,10 @@
 # Random juttuja
 
-Portfolio (vanha)
+Portfolio (vanha).
 
 https://student.labranet.jamk.fi/~aa4499/Jutut/Portfolio_vanha/
 
-Random (html, css)
+Random (html, css).
 
 https://student.labranet.jamk.fi/~aa4499/Jutut/3_taustaa_css/
 
